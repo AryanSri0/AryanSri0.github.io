@@ -240,15 +240,6 @@
 
         imageCarousel();
 
-        // Blog grid init
-        var $container = $(".blog-masonry");
-        $container.imagesLoaded(function () {
-            $container.masonry({
-              itemSelector: '.item',
-              resize: false
-            });
-        });
-
         // Mobile menu
         $('.menu-toggle').on("click", function () {
             $('.site-nav').addClass('animate');
