@@ -1,5 +1,5 @@
 /*
-* Template Name: Leven - Resume / CV / vCard Template
+* Template Name: <!-- <meta name="description" content="Leven - Resume / CV / vCard Template" /> -->/ CV / vCard Template
 * Author: lmpixels
 * Author URL: http://themeforest.net/user/lmpixels
 * Version: 1.5.0
